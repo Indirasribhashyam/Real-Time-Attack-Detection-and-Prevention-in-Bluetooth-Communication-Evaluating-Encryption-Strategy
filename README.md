@@ -13,7 +13,6 @@ Resource-constrained edge devices like the ESP32 are vulnerable to Bluetooth att
 ## Research Paper
 
 You can find the related research paper here:  
-[Download PDF](./docs/Real-Time-Attack-Detection-and Prevention in Bluetooth Communication Evaluating Encryption Strategies.pdf)
 
 
-[Download PDF](./docs/research-paper-title.pdf)
+[Download PDF](.Group_8.pdf)
