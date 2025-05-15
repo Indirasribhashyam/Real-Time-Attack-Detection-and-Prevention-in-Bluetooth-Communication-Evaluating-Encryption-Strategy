@@ -8,3 +8,12 @@ This research proposes a lightweight Graph Convolutional Network (GCN) model to 
 ## Problem Statement
 
 Resource-constrained edge devices like the ESP32 are vulnerable to Bluetooth attacks exploiting weak protocols and encryption. Existing solutions either lack detection accuracy or are too heavy for embedded systems. This project addresses these issues by combining a GCN-based attack detection model with a comparative analysis of efficient lightweight encryption algorithms, alongside real-time anomaly detection to provide robust and efficient Bluetooth security for IoT applications.
+
+
+## Research Paper
+
+You can find the related research paper here:  
+[Download PDF](./docs/Real-Time-Attack-Detection-and Prevention in Bluetooth Communication Evaluating Encryption Strategies.pdf)
+
+
+[Download PDF](./docs/research-paper-title.pdf)
