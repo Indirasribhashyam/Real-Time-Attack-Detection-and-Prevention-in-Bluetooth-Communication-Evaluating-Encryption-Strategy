@@ -14,5 +14,4 @@ Resource-constrained edge devices like the ESP32 are vulnerable to Bluetooth att
 
 You can find the related research paper here:  
 
-
 [Download PDF](.Group_8.pdf)
